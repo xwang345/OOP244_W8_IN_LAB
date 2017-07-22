@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/Account.cpp
+Account.h
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/Account.h
+
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/Account.h
+iostream
+-
+
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/SavingsAccount.cpp
+iomanip
+-
+SavingsAccount.h
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/SavingsAccount.h
+
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/SavingsAccount.h
+Account.h
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/Account.h
+
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/w8_in_lab.cpp
+iostream
+-
+Account.h
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/Account.h
+SavingsAccount.h
+C:/Users/zhi/OOP-Workshops/WS08/in-lab/SavingsAccount.h
+
